@@ -1,4 +1,4 @@
-#### [https://slshptt.vercel.app](https://slshptt.vercel.app)
+### [https://slshptt.vercel.app](https://slshptt.vercel.app)
 
 <!--
 **slashpotato/slashpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
