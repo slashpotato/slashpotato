@@ -64,3 +64,5 @@ best project:
 - Discord: @slashpotato
 
 - OpenVK: [@slashpotato](https://ovk.to/slashpotato)
+
+- Email: slashpotato@duck.com
