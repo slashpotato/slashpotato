@@ -49,7 +49,7 @@ best project:
   - C++: Qt Creator
   - Kotlin: Android Studio Canary
 
-- Music: ambient, rock and its flavous, russian rock, idm, alternative
+- Music: ambient, rock and its flavours, russian rock, idm, alternative
 
 - Messenger: Telegram, Discord
 
