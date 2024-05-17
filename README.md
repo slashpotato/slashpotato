@@ -19,6 +19,10 @@ best project:
 
 - Mobile OS: Android 14 (Xiaomi HyperOS, Pixel OS)
 
+- WM: bspwm
+
+- DE: KDE Plasma 5
+
 - Phones: POCO F5, Xiaomi 11 Lite 5G NE
 
 - Theme: Catppuccin Mocha (Lavender)
