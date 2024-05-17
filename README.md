@@ -23,6 +23,10 @@ best project:
 
 - DE: KDE Plasma 5
 
+- Sound Server: PulseAudio 
+
+- Graphical Server: X11
+
 - Phones: POCO F5, Xiaomi 11 Lite 5G NE
 
 - Theme: Catppuccin Mocha (Lavender)
