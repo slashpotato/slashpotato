@@ -35,6 +35,20 @@ best project:
 
 - Terminal: kitty
 
+- Languages: 
+  - TypeScript (85%)
+  - C++ (40%)
+  - Kotlin (15%)
+
+- Frameworks:
+  - TypeScript: Next.js (with tailwindcss)
+  - C++: Qt
+
+- IDE:
+  - TypeScript: Visual Studio Code 
+  - C++: Qt Creator
+  - Kotlin: Android Studio Canary
+
 - Music: ambient, rock and its flavous, russian rock, idm, alternative
 
 - Messenger: Telegram, Discord
