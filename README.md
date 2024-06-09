@@ -2,7 +2,7 @@
 
 hi im slashpotato 👋
 
-![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=slashpotato&theme=github_dark_dimmed&border_radius=10&show_icons=true&layout=compact)
+![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=slashpotato&theme=github_dark_dimmed&border_radius=10&show_icons=true&layout=compact&hide=python,html,qmake)
 
 #foss
 
