@@ -11,11 +11,9 @@ best project:
 [![Best Project Card](https://github-readme-stats.vercel.app/api/pin/?username=slashpotato&repo=potatoMusic&theme=github_dark_dimmed&border_radius=10&show_icons=true&show_owner=true)](https://github.com/slashpotato/potatoMusic)
 
 ## Preferences 
-- OS: Debian GNU/Linux
+- Current OS: Artix GNU/Linux (runit)
 
-- OS history: Arch Linux, Void Linux, Debian (now)
-
-- OS Candidates (if current breaks): Artix (runit), Bedrock Linux
+- OS history: Arch Linux, Void Linux, Debian, Artix Linux (runit)
 
 - Mobile OS: Android 14 (Xiaomi HyperOS, Pixel OS)
 
@@ -41,8 +39,8 @@ best project:
 
 - Languages: 
   - TypeScript (85%)
-  - C++ (40%)
-  - Kotlin (15%)
+  - C++ (25%)
+  - Kotlin (10%)
 
 - Frameworks:
   - TypeScript: Next.js (with tailwindcss)
