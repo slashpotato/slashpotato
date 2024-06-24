@@ -2,13 +2,13 @@
 
 hi im slashpotato 👋
 
-![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=slashpotato&theme=github_dark_dimmed&border_radius=10&show_icons=true&layout=compact&hide=html,qmake,css&exclude_repo=dotfiles)
+![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=slashpotato&theme=catppuccin_mocha&border_radius=10&show_icons=true&layout=compact&hide=html,qmake,css&exclude_repo=dotfiles&border_color=b4befe)
 
 #foss
 
 best project:
 
-[![Best Project Card](https://github-readme-stats.vercel.app/api/pin/?username=slashpotato&repo=potatoMusic&theme=github_dark_dimmed&border_radius=10&show_icons=true&show_owner=true)](https://github.com/slashpotato/potatoMusic)
+[![Best Project Card](https://github-readme-stats.vercel.app/api/pin/?username=slashpotato&repo=potatoMusic&theme=catppuccin_mocha&border_radius=10&show_icons=true&show_owner=true&border_color=b4befe)](https://github.com/slashpotato/potatoMusic)
 
 ## Preferences 
 - Current OS: Artix GNU/Linux (runit)
