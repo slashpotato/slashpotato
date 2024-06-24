@@ -4,18 +4,22 @@ hi im slashpotato 👋
 
 ![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=slashpotato&theme=catppuccin_mocha&border_radius=10&show_icons=true&layout=compact&hide=html,qmake,css&exclude_repo=dotfiles&border_color=b4befe)
 
-#foss
+#### #foss
 
 best project:
 
 [![Best Project Card](https://github-readme-stats.vercel.app/api/pin/?username=slashpotato&repo=potatoMusic&theme=catppuccin_mocha&border_radius=10&show_icons=true&show_owner=true&border_color=b4befe)](https://github.com/slashpotato/potatoMusic)
 
-## Preferences 
+<details>
+  <summary>
+    <h2>Preferences</h2>
+  </summary>
+
 - Current OS: Artix GNU/Linux (runit)
 
 - OS history: Arch Linux, Void Linux, Debian, Artix Linux (runit)
 
-- Mobile OS: Android 14 (Xiaomi HyperOS, Pixel OS)
+- Mobile OS: Android 14 (Xiaomi HyperOS, crDroid)
 
 - WM: bspwm
 
@@ -58,8 +62,11 @@ best project:
 - Telegram client: Nekogram, 64Gram Desktop
 
 - Discord mod: mobile - official, desktop - Vencord
-
-## Contact me
+</details>
+<details>
+  <summary>
+    <h2>Contact me</h2>
+  </summary>
 
 - Telegram: [@slashpatata](https://t.me/slashpatata)
 
@@ -68,3 +75,4 @@ best project:
 - OpenVK: [@slashpotato](https://ovk.to/slashpotato)
 
 - Email: slashpotato@duck.com
+</details>
