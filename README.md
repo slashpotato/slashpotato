@@ -59,9 +59,9 @@ best project:
 
 - Messenger: Telegram, Discord
 
-- Telegram client: Nekogram, 64Gram Desktop
+- Telegram client: Nekogram, 64Gram-Desktop
 
-- Discord mod: mobile - official, desktop - Vencord
+- Discord mod: mobile - Bunny, desktop - Vencord
 </details>
 <details>
   <summary>
