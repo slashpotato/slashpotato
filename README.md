@@ -65,7 +65,7 @@ i love coffee
     <h2>Contact me</h2>
   </summary>
 
-- Telegram: [@slashpatata](https://t.me/slashpatata)
+- Telegram: [@slashpotato](https://t.me/slashpotato)
 
 - Discord: @slashpotato
 
