@@ -18,7 +18,7 @@ i love coffee
 
 - Mobile OS: Android 14 (Xiaomi HyperOS, crDroid)
 
-- WM: herbsluftwm
+- WM: herbstluftwm
 
 - DE: KDE Plasma 5
 
