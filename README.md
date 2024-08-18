@@ -22,50 +22,31 @@ i love coffee
 
 - DE: KDE Plasma 5
 
-- Sound Server: PulseAudio 
-
-- Graphical Server: X11
-
-- Phones: POCO F5, Xiaomi 11 Lite 5G NE
-
 - Theme: Catppuccin Mocha (Lavender)
 
 - Icons: papirus-icon-theme
-
-- SOC: AMD, mobile: Qualcomm
 
 - Shell: zsh (with oh-my-zsh and oh-my-posh)
 
 - Terminal: kitty
 
 - Languages: 
-  - TypeScript (85%)
-  - C++ (25%)
-  - Kotlin (10%)
+  - TypeScript (80%)
+  - C++ (15%)
+  - Kotlin (5%)
 
 - Frameworks:
   - TypeScript: Next.js (with tailwindcss)
   - C++: Qt
 
-- IDE:
-  - TypeScript: Visual Studio Code 
-  - C++: Qt Creator
-  - Kotlin: Android Studio Canary
-
 - Music: ambient, rock and its flavours, russian rock, idm, alternative
-
-- Messenger: Telegram, Discord
-
-- Telegram client: Nekogram, 64Gram-Desktop
-
-- Discord mod: mobile - Bunny, desktop - Vencord
 </details>
 <details>
   <summary>
     <h2>Contact me</h2>
   </summary>
 
-- Telegram: [@slashpotato](https://t.me/slashpotato)
+- Telegram: [temporarily no tag]
 
 - Discord: @slashpotato
 
