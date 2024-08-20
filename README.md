@@ -9,12 +9,12 @@ i love coffee
 
 <details>
   <summary>
-    <h2>Preferences</h2>
+    <h2>Some info</h2>
   </summary>
 
 - Current OS: Void GNU/Linux
 
-- OS history: Arch Linux, Void Linux, Debian, Artix Linux (runit), Void Linux
+- OS history: Windows, Arch Linux, Void Linux, Debian, Artix Linux (runit), Void Linux
 
 - Mobile OS: Android 14 (Xiaomi HyperOS, crDroid)
 
@@ -44,11 +44,9 @@ i love coffee
     <h2>Contact me</h2>
   </summary>
 
-- Telegram: [temporarily no tag]
+- Telegram: [temporarily no tag], [channel](https://t.me/+7TuiMp0c59kxMDdi)
 
 - Discord: @slashpotato
-
-- OpenVK: [@slashpotato](https://ovk.to/slashpotato)
 
 - Email: slashpotato@duck.com
 </details>
