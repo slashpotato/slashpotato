@@ -38,8 +38,6 @@ i love coffee
 - Frameworks:
   - TypeScript: Next.js (with tailwindcss)
   - C++: Qt
-
-- Music: ambient, rock and its flavours, russian rock, idm, alternative
 </details>
 <details>
   <summary>
