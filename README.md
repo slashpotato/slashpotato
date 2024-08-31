@@ -20,8 +20,6 @@ i love coffee
 
 - WM: herbstluftwm
 
-- DE: KDE Plasma 5
-
 - Theme: Catppuccin Mocha (Lavender)
 
 - Icons: papirus-icon-theme
