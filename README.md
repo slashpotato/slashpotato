@@ -42,7 +42,7 @@ i love coffee
     <h2>Contact me</h2>
   </summary>
 
-- Telegram: [temporarily no tag], [channel](https://t.me/+7TuiMp0c59kxMDdi)
+- Telegram: [@slashpotato](https://t.me/slashpotato), [channel](https://t.me/+7TuiMp0c59kxMDdi)
 
 - Discord: @slashpotato
 
