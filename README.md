@@ -34,7 +34,7 @@ i love coffee
   - Kotlin (5%)
 
 - Frameworks:
-  - TypeScript: Next.js (with tailwindcss)
+  - TypeScript: Next.js, Vue.js
   - C++: Qt
 </details>
 <details>
