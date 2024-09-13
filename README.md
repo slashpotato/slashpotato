@@ -38,5 +38,4 @@ i love coffee
   - C++: Qt
 </details>
 <h2>Contact me</h2>
-- Email: slashpotato@duck.com
-
+slashpotato@duck.com
