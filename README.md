@@ -14,7 +14,7 @@ i love coffee
 
 - Current OS: Void GNU/Linux
 
-- OS history: Windows, Arch Linux, Void Linux, Debian, Artix Linux (runit), Void Linux
+- OS history: Arch Linux, Void Linux, Debian, Artix Linux (runit), Void Linux
 
 - Mobile OS: Android 14 (Xiaomi HyperOS, crDroid)
 
@@ -37,14 +37,6 @@ i love coffee
   - TypeScript: Next.js, Vue.js
   - C++: Qt
 </details>
-<details>
-  <summary>
-    <h2>Contact me</h2>
-  </summary>
-
-- Telegram: [@slashpotato](https://t.me/slashpotato), [channel](https://t.me/+7TuiMp0c59kxMDdi)
-
-- Discord: @slashpotato
-
+<h2>Contact me</h2>
 - Email: slashpotato@duck.com
-</details>
+
