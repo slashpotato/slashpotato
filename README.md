@@ -1,1 +1,2 @@
-https://codeberg.org/slashpotato
+## archive account
+moved: https://codeberg.org/slashpotato
